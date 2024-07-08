@@ -10,6 +10,8 @@
 
 K-means Clustering adalah metode segmentasi gambar yang digunakan untuk mengelompokkan data (_piksel-piksel_) ke dalam sejumlah bagian (_cluster_) di mana setiap cluster memiliki pusat (_centroid_) yang mewakili karakteristik kelompok tersebut berdasarkan kesamaan warna, tekstur atau intensitasnya. Tujuannya adalah untuk menyederhanakan representasi gambar dan mempermudah analisis dengan mengelompokkan piksel yang memiliki karakteristik serupa ke dalam cluster yang sama.
 
+![img 2](contoh.png)
+
 ## B. Penjelasan Program
 
 Berikut adalah program Python yang telah dirapikan dan dijelaskan setiap langkahnya. Program ini menggunakan OpenCV untuk memproses gambar, melakukan clustering dengan algoritma k-means, dan menampilkan hasilnya menggunakan matplotlib.
