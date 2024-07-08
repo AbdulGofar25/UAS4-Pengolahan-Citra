@@ -1,10 +1,8 @@
 # UAS4-Pengolahan-Citra
 
-|==========================|
-| ## Nama : Abdul Gofar|
-| ## Kelas : TI.22.B.2 |
-| ## Nim : 312210504 |
-|==========================|
+| NO  | ANGGOTA     | NIM       | KELAS     | MATA KULIAH      |
+| --- | ----------- | --------- | --------- | ---------------- |
+| 1   | Abdul Gofar | 312210504 | TI.22.B.2 | Pengolahan Citra |
 
 # Segementasi Gambar Citra Digital Dengan Algoritma KNN
 
