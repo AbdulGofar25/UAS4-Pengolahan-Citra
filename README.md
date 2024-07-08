@@ -1,6 +1,6 @@
 # UAS4-Pengolahan-Citra
 
-| NO  | ANGGOTA     | NIM       | KELAS     | MATA KULIAH      |
+| NO  | NAMA        | NIM       | KELAS     | MATA KULIAH      |
 | --- | ----------- | --------- | --------- | ---------------- |
 | 1   | Abdul Gofar | 312210504 | TI.22.B.2 | Pengolahan Citra |
 
